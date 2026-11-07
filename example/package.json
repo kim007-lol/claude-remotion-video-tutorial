@@ -1,0 +1,1 @@
+{"dependencies":{"@remotion/cli":"^4.0.541","react":"^19.3.1","react-dom":"^19.3.1","remotion":"^4.0.541"},"name":"remotion-contoh","private":true,"scripts":{"render":"remotion render src/index.ts ContohHalo out/contoh-halo.mp4","render-still":"remotion still src/index.ts ContohHalo out/cek-frame.png --frame=60","studio":"remotion studio src/index.ts"},"version":"1.0.0"}
